@@ -1,0 +1,2 @@
+Implementation for FindShortestPath method. 
+It should return the shortest path between the first (0,0) and the last (len - 1, len - 1) points in the two-dimentional array. The size of the array can vary. The path should contain no more then two types of digits (zero and five for example). It is allowed to move strictly up, down, left, right if the step contains zero (for example: 0 -> 4 or 5 -> 0). It is allowed to move in any direction (diagonal movement), when step doesn't contain zeros (4 -> 4 or 4 -> 5).
